@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I’m Sruthy Chandy
 
-<!--
-**schandy2211/schandy2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Postdoctoral Scholar @ UC Berkeley & Lawrence Berkeley National Lab  
+🧪 Computational Chemist | ML Scientist | Quantum Modeler  
+📍 Based in Berkeley, CA | Open to Industry Roles (ML × Chemistry × AI4Science)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 My Work in One Line
+
+I build **machine learning models that match quantum chemistry accuracy** — for real-world molecular systems, catalysis, and interfacial environments.
+
+---
+
+## 🚀 Current Highlights
+
+- 🔍 Developed hybrid ML–DFT model for water-ion and water–metal oxide systems
+- 🧠 Designed delta-learning force field for many-body PES of water clusters
+- ⚛️ Led NMR chemical shift prediction project (JCTC 2023 – MIM-ML)
+- 📈 Published in *JACS*, *Inorg Chem*, *JCTC*; CO₂RR and NRR mechanisms
+- 🧪 Simulations: AIMD (CP2K), DFT (Q-Chem, ORCA), force fields (OpenMM/AMOEBA)
+
+---
+
+## 🧠 Tools & Skills
+
+- **Languages**: Python, Fortran, Bash
+- **Libraries**: PyTorch, scikit-learn, NumPy, pandas
+- **Chemistry**: CP2K, ORCA, Q-Chem, Gaussian, xTB, CREST, OpenMM, AMBER
+- **ML Chemistry**: Delta learning, Deep Learning, many-body energy decomposition
+- **Extras**: Git, Jupyter, GitHub Actions
+
+---
+
+## 📂 Featured Projects
+
+🔗 [MIM-ML](https://github.com/schandy2211/mim-ml)  
+📦 Predict NMR shifts of nucleic acids using fragment-based quantum descriptors + random forest
+
+🔗 [Delta-learning-force](https://github.com/schandy2211/delta-learning-force)  
+💡 Learn energy corrections for 2-body water-ion clusters via feedforward NN (in progress)
+
+🔗 [Or56a Analysis](https://github.com/schandy2211/or56a-analysis)  
+🧠 Mechanistic model of odorant antagonism via AlphaFold + docking + pocket detection
+
+---
+
+## 🧾 Reach Me
+
+📧 sruthychandy@email.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sruthychandy)  
