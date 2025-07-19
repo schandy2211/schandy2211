@@ -48,4 +48,4 @@ I build **machine learning models that match quantum chemistry accuracy** — fo
 ## 🧾 Reach Me
 
 📧 schandy@berkeley.edu | skchandy@lbl.gov 
-🔗 [LinkedIn]([https://www.linkedin.com/in/sruthy-k-chandy/])  
+🔗 [LinkedIn](https://www.linkedin.com/in/sruthy-k-chandy/)  
