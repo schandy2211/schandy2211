@@ -16,7 +16,7 @@ I build **machine learning models that match quantum chemistry accuracy** — fo
 
 - 🔍 Developed hybrid ML–DFT model for water-ion and water–metal oxide systems
 - 🧠 Designed delta-learning force field for many-body PES of water clusters
-- ⚛️ Led NMR chemical shift prediction project (JCTC 2023 – MIM-ML)
+- ⚛️ Led NMR chemical shift prediction project for proteins and Nucleic Acids (JCTC 2023 – MIM-ML)
 - 📈 Published in *JACS*, *Inorg Chem*, *JCTC*; CO₂RR and NRR mechanisms
 - 🧪 Simulations: AIMD (CP2K), DFT (Q-Chem, ORCA), force fields (OpenMM/AMOEBA)
 
@@ -35,7 +35,7 @@ I build **machine learning models that match quantum chemistry accuracy** — fo
 ## 📂 Featured Projects
 
 🔗 [MIM-ML](https://github.com/schandy2211/mim-ml)  
-📦 Predict NMR shifts of nucleic acids using fragment-based quantum descriptors + random forest
+📦 Predict NMR shifts of nucleic acids using fragment-based quantum descriptors + random forest; experimental accuracy at GFN2-xTB cost
 
 🔗 [Delta-learning-force](https://github.com/schandy2211/delta-learning-force)  
 💡 Learn energy corrections for 2-body water-ion clusters via feedforward NN (in progress)
