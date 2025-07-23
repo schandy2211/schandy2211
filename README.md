@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Sruthy Chandy
 
-🎓 Postdoctoral Scholar @ UC Berkeley & Lawrence Berkeley National Lab with Teresa Head-Gordon
-🎓 Ph.D. @ Indiana University Bloomington with Krishnan Raghavachari
+🎓 Postdoctoral Scholar @ UC Berkeley & Lawrence Berkeley National Lab with Teresa Head-Gordon  || Ph.D. @ Indiana University Bloomington with Krishnan Raghavachari
 🧪 Computational Chemist | ML Scientist | Quantum Modeler  
 📍 Based in Berkeley, CA | Open to Industry Roles (ML × Chemistry × AI4Science)
 
