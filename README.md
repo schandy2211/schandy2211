@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Sruthy Chandy
 
-🎓 Postdoctoral Scholar @ UC Berkeley & Lawrence Berkeley National Lab  
+🎓 Postdoctoral Scholar @ UC Berkeley & Lawrence Berkeley National Lab with Teresa Head-Gordon
+🎓 Ph.D. @ Indiana University Bloomington with Krishnan Raghavachari
 🧪 Computational Chemist | ML Scientist | Quantum Modeler  
 📍 Based in Berkeley, CA | Open to Industry Roles (ML × Chemistry × AI4Science)
 
@@ -8,7 +9,7 @@
 
 ## 🔬 My Work in One Line
 
-I build **machine learning models that match quantum chemistry accuracy** — for real-world molecular systems, catalysis, and interfacial environments.
+I build **machine learning models that match quantum chemistry accuracy** — for real-world molecular systems, catalysis, interfacial environments, and biomolecules.
 
 ---
 
@@ -18,7 +19,7 @@ I build **machine learning models that match quantum chemistry accuracy** — fo
 - 🧠 Designed delta-learning force field for many-body PES of water clusters
 - ⚛️ Led NMR chemical shift prediction project for Proteins and Nucleic Acids combining fragment based quantum chemistry and machine learning (PCCP 2020, JCTC 2023 Jan, JCTC 2023 May – MIM-ML)
 - 📈 Published in *JACS*, *Inorg Chem*, *JCTC*; CO₂RR and NRR mechanisms
-- 🧪 Simulations: AIMD (CP2K), DFT (Q-Chem, ORCA), force fields (OpenMM/AMOEBA)
+- 🧪 Simulations: AIMD (CP2K), DFT (Q-Chem, Gaussian, ORCA), force fields (OpenMM/AMOEBA)
 
 ---
 
